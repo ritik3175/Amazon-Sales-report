@@ -50,4 +50,4 @@ Python (Pandas, Matplotlib, Seaborn) – Advanced analysis and reporting
 
 6.Screenshot/ Demos
 show what the dashboard looks like.
-Example:
+Example:https://github.com/ritik3175/Amazon-Sales-report/blob/main/Amazon%20sales%20report.png
